@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0a0a0a" />
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#c5a059" stroke-width="1.5" stroke-opacity="0.3" />
+  <!-- Architectural A Monogram -->
+  <path d="M32 14L16 48H23L27 38H37L41 48H48L32 14Z" fill="#c5a059" />
+  <polygon points="32,23 29,32 35,32" fill="#0a0a0a" />
+  <!-- Minimalist accent dot -->
+  <circle cx="32" cy="45" r="1.5" fill="#c5a059" />
+</svg>
